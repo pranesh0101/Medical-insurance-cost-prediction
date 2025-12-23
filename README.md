@@ -66,8 +66,3 @@ Evaluate tree‑based models (Decision Tree, Random Forest, Gradient Boosting) f
 performance.
 Use cross‑validation for more robust performance estimates.
 Add unit tests / data validation steps to safeguard data quality.
-License
-This repository is released under the MIT License. Update as appropriate for your project.
-Contact
-If you have questions or suggestions, open an issue or contact the project owner.
-Generated README — feel free to edit this file in the notebook or on GitHub.
